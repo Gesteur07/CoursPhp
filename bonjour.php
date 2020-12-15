@@ -10,7 +10,7 @@
 <body>
     <?php
         $prenoms = array ('hamadou','moustapha','gesteur');
-
+        $v = true;
         /*for ($x=0; $x<=2; $x++){
             echo $prenoms[$x].'</br>';
         }*/
