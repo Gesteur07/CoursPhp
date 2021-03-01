@@ -1,0 +1,27 @@
+li {
+    padding: 5px;
+}
+
+li:hover {
+    border-bottom: solid 5px rgb(9, 37, 151);
+    background-color: RGBa(64, 200, 130, 0.15);
+}
+
+a {
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+a:visited {
+    color: whitesmoke;
+    ;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+body {
+    /* background-color: rgb(213, 218, 220); */
+    background-image: url('/Tof/Pirate.jpg');
+}
